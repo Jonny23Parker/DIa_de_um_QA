@@ -1,4 +1,4 @@
-# DIa_de_um_QA
+# Dia_de_um_QA
 
 O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 
